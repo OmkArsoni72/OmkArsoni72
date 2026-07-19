@@ -35,7 +35,7 @@ const omkarSoni = {
   ],
   contact: "omkarsoni7277@gmail.com",
 };
-` ` `
+```
 
 ---
 
@@ -99,3 +99,42 @@ const omkarSoni = {
 
 ## 🏆 Achievements
 
+```
+🏢  Founder @ TechServe Nexus  →  ₹2L+ revenue generated
+⚡  5+ Production-level apps   →  Deployed & live for real clients
+🧠  Hackathons                 →  HackIndia | SunHacks | HackBios
+🌐  Web3 Project               →  Blockchain-based application
+🤖  AI/LLM Experience         →  Evaluation, Annotation, Prompt Engineering
+🎓  B.Tech IT                  →  RCET Bhilai
+```
+
+---
+
+## 🌟 Featured Projects
+
+### 🔹 [TechServe Nexus](https://www.techservenexus.com) — Startup Platform
+> Full-stack web platform for client service delivery.
+> **Stack:** `Next.js` `Node.js` `MongoDB` `Razorpay` `Tailwind CSS`
+
+### 🔹 [Portfolio](https://omkarsoni.dev) — Developer Portfolio
+> Personal portfolio with animations and hire flow.
+> **Stack:** `Next.js` `TypeScript` `Framer Motion` `Tailwind CSS`
+
+---
+
+## 📬 Connect & Hire Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-omkarsoni.dev-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://omkarsoni.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkar-soni-067260290)
+[![Email](https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkarsoni7277@gmail.com)
+[![Upwork](https://img.shields.io/badge/Upwork-Available-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com)
+[![Fiverr](https://img.shields.io/badge/Fiverr-Available-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com)
+
+### 💼 Open to: Freelance • AI Trainer Contracts • Node.js Roles • Full Stack Consulting
+### ⚡ Response Time: < 24 hours | Available: Immediately
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
